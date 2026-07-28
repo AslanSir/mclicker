@@ -9,4 +9,4 @@ MClickerX sistemlerinin bulunduğu sayfadır.
 - Sıralama "fiyat->resim linki->Yönlendirilecek link" şeklindedir.
 - Sıralamada her bir öğenin arasında yıldız (*) işareti konur
 - Reklamlar en başlarındaki sayıya (ödenen miktara) göre sıralanır.
-- Reklamlardaki bannerların boyutu "1920 x 80 piksel" olmalıdır
+- Reklamlardaki bannerların boyutu "1920 × 120" olmalıdır
