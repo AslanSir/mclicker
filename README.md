@@ -10,3 +10,8 @@ MClickerX sistemlerinin bulunduğu sayfadır.
 - Sıralamada her bir öğenin arasında yıldız (*) işareti konur
 - Reklamlar en başlarındaki sayıya (ödenen miktara) göre sıralanır.
 - Reklamlardaki bannerların boyutu "1920 × 120" olmalıdır
+------------------------------------------------------------------------
+- Bans sisteminde satır soru işareti (?) ile başlar.
+- Sıralama "HWID->IP ADRESS->SEBEP" şeklindedir.
+- Sıralamada her bir öğenin arasında yıldız (*) işareti konur
+- HWID veya IP ADRESS bilgilerinden biri yoksa o öğenin yerine - işareti konur
