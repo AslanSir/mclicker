@@ -21,3 +21,4 @@ MClickerX sistemlerinin bulunduğu sayfadır.
 - Sıralamada her bir öğenin arasında yıldız (*) işareti konur
 - HWID veya IP ADRESS bilgilerinden biri yoksa o öğenin yerine - işareti konur.
 - Lisans tarihi ile alakalı bilgiler Gün-Ay-Yıl şeklindedir. Araya / işareti konur. Örn: 09/08/2026
+- Renk kodu "HEX" olarak verilir, başına herhangi bir işaret (#) konmaz.
